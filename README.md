@@ -16,7 +16,7 @@ MusicAcadmy is a modern, interactive online music academy platform built with Ne
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/musicacadmy.git
+git clone https://github.com/Muhammad-Shakeel123/Nextjs-Music-Acadamy.get
 cd musicacadmy
 ```
 
@@ -57,7 +57,6 @@ Here are some screenshots of the MusicAcadmy platform:
 ![Courses](![alt text](image-1.png))
 ![Instructor Profile](![alt text](image-2.png))
 
-> To add your own screenshots, place image files in the `public` folder and update the image paths above accordingly.
 
 ## Technologies Used
 
@@ -65,7 +64,6 @@ Here are some screenshots of the MusicAcadmy platform:
 - [TypeScript](https://www.typescriptlang.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - React
-- Vercel for deployment
 
 ## Contributing
 
@@ -75,6 +73,3 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 This project is licensed under the MIT License.
 
----
-
-Made with ❤️ by the MusicAcadmy Team
